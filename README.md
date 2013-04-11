@@ -6,5 +6,5 @@ Find WAN, WiFi, and Ethernet IP addresses, copy to clipboard, and paste into cur
 
 ![my ip screenshot](http://dl.dropbox.com/u/108495/Screenshots/z3-s.png)
 
-Download: 
+[Binary download](https://github.com/ayn/Alfred-2-Workflows/raw/master/IP%20Addresses.alfredworkflow)
 
