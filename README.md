@@ -2,11 +2,7 @@
 
 ##IP Addresses
 
-Find WAN, WiFi, and Ethernet IP addresses, copy to clipboard, and paste into current application. Note that the en? interface number might be different on your Mac, so edit the script to your liking.
-
-![my ip screenshot](http://dl.dropbox.com/u/108495/Screenshots/2~am.png)
-
-[Binary Download](https://github.com/ayn/Alfred-2-Workflows/raw/master/IP%20Addresses.alfredworkflow)
+Removed, use [Ted Wise](http://tedwise.com/2013/03/04/alfred-2-workflows/)'s [Network Info workflow](http://tedwi.se/u/d8) instead, it works better.
 
 ##Prepend to Text file on Dropbox
 
