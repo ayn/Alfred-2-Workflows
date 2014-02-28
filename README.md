@@ -23,3 +23,8 @@ You have to have Gist and also be logged in:
 ![gist](https://files.app.net/2wzwlGPi4.png)
 
 [Binary Download](https://github.com/ayn/Alfred-2-Workflows/raw/master/Gist.alfredworkflow)
+
+***
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ayn/alfred-2-workflows/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
