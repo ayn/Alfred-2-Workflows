@@ -11,3 +11,15 @@ This workflow prepend your query to a file on Dropbox, edit to custom the file y
 ![prepend to memo](http://dl.dropbox.com/u/108495/Screenshots/lzlg.png)
 
 [Binary Download](https://github.com/ayn/Alfred-2-Workflows/raw/master/Prepend%20to%20Memo.alfredworkflow)
+
+##Gist
+
+This workflow creates a [Gist](http://gist.github.com) with your clipboard contents, and put the resulting URL to the Gist back in the clipboard. (Hold Option key to paste result URL into front-most app)
+
+You have to have Gist and also be logged in:
+
+    $ brew install gist && gist --login
+
+![gist](https://files.app.net/2wzwlGPi4.png)
+
+[Binary Download](https://github.com/ayn/Alfred-2-Workflows/raw/master/Gist.alfredworkflow)
