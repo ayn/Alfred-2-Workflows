@@ -80,7 +80,7 @@
 				<key>autopaste</key>
 				<true/>
 				<key>clipboardtext</key>
-				<string></string>
+				<string>{query}</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
@@ -95,7 +95,8 @@
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
-				<string>gist -c -P -p</string>
+				<string>export LANG="$(defaults read -g AppleLocale).UTF-8"
+gist -P -p -f ""</string>
 				<key>type</key>
 				<integer>5</integer>
 			</dict>
@@ -138,6 +139,8 @@
 				<false/>
 				<key>sticky</key>
 				<false/>
+				<key>text</key>
+				<string>{query}</string>
 				<key>title</key>
 				<string>Gist URL copied to clipboard</string>
 			</dict>
@@ -154,7 +157,8 @@
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
-				<string>gist -c -P -p</string>
+				<string>export LANG="$(defaults read -g AppleLocale).UTF-8"
+gist -P -p -f ""</string>
 				<key>type</key>
 				<integer>5</integer>
 			</dict>
@@ -171,7 +175,7 @@
 				<key>autopaste</key>
 				<false/>
 				<key>clipboardtext</key>
-				<string></string>
+				<string>{query}</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
