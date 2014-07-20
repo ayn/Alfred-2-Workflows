@@ -32,15 +32,15 @@
 			<key>config</key>
 			<dict>
 				<key>escaping</key>
-				<integer>63</integer>
+				<integer>102</integer>
 				<key>script</key>
-				<string>f=~/Dropbox/Notes/memo.txt
+				<string>export LANG="$(defaults read -g AppleLocale).UTF-8"
+f="$HOME/Dropbox/Notes/memo.txt"
 t=`mktemp /tmp/alfred_prepend.XXXXXXXX`
-q=$'{query}\n'
+q=$(./normalise -form NFC "{query}")$'\n'
 
-cat - $f &lt;&lt;&lt; "$q" &gt; $t
-mv $t $f
-rm $t
+cat - "$f" &lt;&lt;&lt; "$q" &gt; "$t"
+mv "$t" "$f"
 </string>
 				<key>type</key>
 				<integer>0</integer>
