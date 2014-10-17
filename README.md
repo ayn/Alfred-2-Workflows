@@ -24,6 +24,14 @@ You have to have Gist and also be logged in:
 
 [Binary Download](https://github.com/ayn/Alfred-2-Workflows/raw/master/Gist.alfredworkflow)
 
+##Dial
+
+Dial a number with your iPhone, if you have iOS 8 and Yosemite.
+
+![dial](https://dl.dropboxusercontent.com/spa/rhgr60g0yynv5si/1072b4su.png)
+
+[Binary Download](https://github.com/ayn/Alfred-2-Workflows/raw/master/dial.alfredworkflow)
+
 ***
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ayn/alfred-2-workflows/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
