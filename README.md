@@ -30,6 +30,10 @@ Dial a number with your iPhone, if you have iOS 8 and Yosemite.
 
 ![dial](https://dl.dropboxusercontent.com/spa/rhgr60g0yynv5si/1072b4su.png)
 
+### Add contact action:
+
+![contact action](https://dl.dropboxusercontent.com/spa/rhgr60g0yynv5si/9ehx8uq8.png)
+
 [Binary Download](https://github.com/ayn/Alfred-2-Workflows/raw/master/dial.alfredworkflow)
 
 ***
