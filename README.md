@@ -37,7 +37,7 @@ Dial a number with your iPhone, if you have iOS 8 and Yosemite.
 
 [Binary Download](https://github.com/ayn/Alfred-2-Workflows/raw/master/dial.alfredworkflow)
 
-***
+<!--***
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ayn/alfred-2-workflows/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+-->
