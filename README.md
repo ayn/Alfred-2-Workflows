@@ -1,10 +1,10 @@
 # Alfred 2 Workflows
 
-##IP Addresses
+<!--## IP Addresses
 
 Removed, use [Ted Wise](http://tedwise.com/2013/03/04/alfred-2-workflows/)'s [Network Info workflow](http://tedwi.se/u/d8) instead, it works better.
-
-##Prepend to Text file on Dropbox
+-->
+## Prepend to Text file on Dropbox
 
 This workflow prepend your query to a file on Dropbox, edit to custom the file you want to prepend to.
 
@@ -25,7 +25,7 @@ You have to have Gist and also be logged in:
 [Binary Download](https://github.com/ayn/Alfred-2-Workflows/raw/master/Gist.alfredworkflow)
 -->
 
-##Dial
+## Dial
 
 Dial a number with your iPhone, if you have iOS 8 and Yosemite.
 
